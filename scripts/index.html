@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>To do app</title>
+        <link rel="stylesheet" href="main.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <input type="text" placeholder="Add">
+        <p><input type="text" placeholder="category" list="categorylist"></p>
+        <datalist id="categorylist">
+            <option value="Personal"></option>
+            <option value="Work"></option>
+        </datalist>
+        <button id="addBtn">Add</button>
+        <table id="todoTable">
+            <tr>
+                <td>checkbox</td>
+                <td>to-do</td>
+                <td>
+                    <select id="categoryFilter">
+                        <option value="Category">Category</option>
+                        <option value="Personal">Personal</option>
+                        <option value="Work">Work</option>
+                    </select>
+                </td>
+                <td>delete</td>
+            </tr>
+        </table>
+        <ul></ul>
+        <script src="main.js"></script>
+    </body>
+</html>
