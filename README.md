@@ -4,3 +4,8 @@
 
 ---
 
+## **Features:**
+
+- Add tasks with ease.
+- View the total number of pending tasks.
+- Immediate feedback for empty input.
