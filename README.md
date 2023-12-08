@@ -4,7 +4,9 @@
 
 ---
 
-## **Features:**
+## **Features and Description**
+
+HTML, CSS and JavaScript web app, the features are as follows:
 
 - Add tasks with ease.
 - View the total number of pending tasks.
