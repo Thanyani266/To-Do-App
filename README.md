@@ -4,7 +4,7 @@
 
 ---
 
-## **Features and Description**
+## **Features**
 
 HTML, CSS and JavaScript web app, the features are as follows:
 
